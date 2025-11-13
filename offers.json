@@ -7,7 +7,8 @@
     "type": "Апартаменты",
     "deadline": "",
     "link": "https://oasiscapital.ae/catalog/tproduct/484260854572-bay-grove-resisdences",
-    "img": "https://static.tildacdn.one/stor3831-6635-4266-a137-323030383438/79847968.jpg"
+    "img": "https://static.tildacdn.one/stor3831-6635-4266-a137-323030383438/79847968.jpg",
+    "id": "484260854572"
   },
   {
     "title": "Jacob & Co",
@@ -17,7 +18,8 @@
     "type": "",
     "deadline": "",
     "link": "https://oasiscapital.ae/catalog/tproduct/502950316602-jacob-amp-co",
-    "img": "https://static.tildacdn.one/stor3065-6361-4232-a130-346466386131/89132197.jpg"
+    "img": "https://static.tildacdn.one/stor3065-6361-4232-a130-346466386131/89132197.jpg",
+    "id": "502950316602"
   },
   {
     "title": "Serenia District",
@@ -27,7 +29,8 @@
     "type": "Апартаменты",
     "deadline": "",
     "link": "https://oasiscapital.ae/catalog/tproduct/397342862932-serenia-district",
-    "img": "https://static.tildacdn.one/stor6430-3039-4034-b963-316261343935/31243084.jpg"
+    "img": "https://static.tildacdn.one/stor6430-3039-4034-b963-316261343935/31243084.jpg",
+    "id": "397342862932"
   },
   {
     "title": "Trump International",
@@ -37,7 +40,8 @@
     "type": "",
     "deadline": "",
     "link": "https://oasiscapital.ae/catalog/tproduct/899636539242-trump-international",
-    "img": "https://static.tildacdn.one/stor3933-3562-4233-a531-353963626235/22699695.jpg"
+    "img": "https://static.tildacdn.one/stor3933-3562-4233-a531-353963626235/22699695.jpg",
+    "id": "899636539242"
   },
   {
     "title": "Maryam Island",
@@ -47,7 +51,8 @@
     "type": "",
     "deadline": "",
     "link": "https://oasiscapital.ae/catalog/tproduct/225383786022-maryam-island",
-    "img": "https://static.tildacdn.one/stor3531-3333-4162-b435-623932386565/67169737.png"
+    "img": "https://static.tildacdn.one/stor3531-3333-4162-b435-623932386565/67169737.png",
+    "id": "225383786022"
   },
   {
     "title": "Cove Grand",
@@ -57,7 +62,8 @@
     "type": "",
     "deadline": "Q4 2027",
     "link": "https://oasiscapital.ae/catalog/tproduct/387306788852-cove-grand",
-    "img": "https://static.tildacdn.one/stor3166-3031-4333-a661-353736653265/58619171.png"
+    "img": "https://static.tildacdn.one/stor3166-3031-4333-a661-353736653265/58619171.png",
+    "id": "387306788852"
   },
   {
     "title": "Flow Residences",
@@ -67,7 +73,8 @@
     "type": "",
     "deadline": "Q1 2027",
     "link": "https://oasiscapital.ae/catalog/tproduct/982695214292-flow-residences",
-    "img": "https://static.tildacdn.one/stor3034-3437-4862-a661-363864653763/96028927.png"
+    "img": "https://static.tildacdn.one/stor3034-3437-4862-a661-363864653763/96028927.png",
+    "id": "982695214292"
   },
   {
     "title": "Waldorf Astoria Residences Dubai Business Bay",
@@ -77,7 +84,8 @@
     "type": "",
     "deadline": "",
     "link": "https://oasiscapital.ae/catalog/tproduct/864385151182-waldorf-astoria-residences-dubai-busines",
-    "img": "https://static.tildacdn.one/stor6166-3163-4534-b038-653264656266/75407264.png"
+    "img": "https://static.tildacdn.one/stor6166-3163-4534-b038-653264656266/75407264.png",
+    "id": "864385151182"
   },
   {
     "title": "Siniya Island",
@@ -87,7 +95,8 @@
     "type": "",
     "deadline": "Q1 2029",
     "link": "https://oasiscapital.ae/catalog/tproduct/409026870802-siniya-island",
-    "img": "https://static.tildacdn.one/stor3462-6537-4334-a532-666662313162/95146141.png"
+    "img": "https://static.tildacdn.one/stor3462-6537-4334-a532-666662313162/95146141.png",
+    "id": "409026870802"
   },
   {
     "title": "Eywa",
@@ -97,7 +106,8 @@
     "type": "",
     "deadline": "II квартал 2026 (Q2 2026)",
     "link": "https://oasiscapital.ae/catalog/tproduct/413340939752-eywa",
-    "img": "https://static.tildacdn.one/stor3563-3338-4865-b138-356165663438/63215082.png"
+    "img": "https://static.tildacdn.one/stor3563-3338-4865-b138-356165663438/63215082.png",
+    "id": "413340939752"
   },
   {
     "title": "Burj Azizi",
@@ -107,7 +117,8 @@
     "type": "",
     "deadline": "Q4 2029",
     "link": "https://oasiscapital.ae/catalog/tproduct/437799158742-burj-azizi",
-    "img": "https://static.tildacdn.one/stor6661-3736-4435-a232-623334326634/98771063.png"
+    "img": "https://static.tildacdn.one/stor6661-3736-4435-a232-623334326634/98771063.png",
+    "id": "437799158742"
   },
   {
     "title": "Iconic Tower",
@@ -117,7 +128,8 @@
     "type": "Апартаменты, пентхаусы",
     "deadline": "",
     "link": "https://oasiscapital.ae/catalog/tproduct/305662955092-iconic-tower",
-    "img": "https://static.tildacdn.one/stor3931-3966-4337-a632-353632326639/33449145.jpg"
+    "img": "https://static.tildacdn.one/stor3931-3966-4337-a632-353632326639/33449145.jpg",
+    "id": "305662955092"
   },
   {
     "title": "The Alba Residences",
@@ -127,7 +139,8 @@
     "type": "Апартаменты",
     "deadline": "",
     "link": "https://oasiscapital.ae/tproduct/237821046622-the-alba-residences",
-    "img": "https://static.tildacdn.one/stor3265-6231-4639-b762-396631353636/21096362.jpg"
+    "img": "https://static.tildacdn.one/stor3265-6231-4639-b762-396631353636/21096362.jpg",
+    "id": "237821046622"
   },
   {
     "title": "Binghatti Flare",
@@ -137,7 +150,8 @@
     "type": "Апартаменты",
     "deadline": "",
     "link": "https://oasiscapital.ae/tproduct/768411182762-binghatti-flare",
-    "img": "https://static.tildacdn.one/stor3066-3664-4863-a661-313230353063/19001846.jpg"
+    "img": "https://static.tildacdn.one/stor3066-3664-4863-a661-313230353063/19001846.jpg",
+    "id": "768411182762"
   },
   {
     "title": "W The Residences",
@@ -147,7 +161,8 @@
     "type": "",
     "deadline": "Q4 2027",
     "link": "https://oasiscapital.ae/tproduct/649273992782-w-the-residences",
-    "img": "https://static.tildacdn.one/stor3533-6163-4166-a466-313062653931/73673271.jpg"
+    "img": "https://static.tildacdn.one/stor3533-6163-4166-a466-313062653931/73673271.jpg",
+    "id": "649273992782"
   },
   {
     "title": "Baccarat Residences",
@@ -157,6 +172,7 @@
     "type": "Апартаменты, пентхаусы",
     "deadline": "Q4 2026",
     "link": "https://oasiscapital.ae/tproduct/561714114182-baccarat-residences",
-    "img": "https://static.tildacdn.one/stor6638-6633-4563-b863-636262666564/93404593.jpg"
+    "img": "https://static.tildacdn.one/stor6638-6633-4563-b863-636262666564/93404593.jpg",
+    "id": "561714114182"
   }
 ]
